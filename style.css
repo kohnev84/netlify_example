@@ -1,0 +1,82 @@
+@import 'animate.css';
+
+.title_1,
+.title_2,
+.title_3,
+.title_4,
+.title_5,
+.title_6,
+.title_7,
+.title_8,
+.title_9,
+.title_10,
+.title_11,
+.title_12,
+.title_13,
+.title_14,
+.title_15,
+.title_16 {
+    position: absolute;
+    left: 730px;
+    font-size: 5rem;
+}
+
+.title_2 {
+    top: 200px;
+}
+
+.title_3 {
+    top: 400px;
+}
+
+.title_4 {
+    top: 600px;
+}
+
+.title_5 {
+    top: 800px;
+}
+
+.title_6 {
+    top: 1000px;
+}
+
+.title_7 {
+    top: 1200px;
+}
+
+.title_8 {
+    top: 1400px;
+}
+
+.title_9 {
+    top: 1600px;
+}
+
+.title_10 {
+    top: 1800px;
+}
+
+.title_11 {
+    top: 2000px;
+}
+
+.title_12 {
+    top: 2200px;
+}
+
+.title_13 {
+    top: 2400px;
+}
+
+.title_14 {
+    top: 2600px;
+}
+
+.title_15 {
+    top: 2800px;
+}
+
+.title_16 {
+    top: 3000px;
+}
